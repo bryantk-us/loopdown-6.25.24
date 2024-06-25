@@ -1,3 +1,5 @@
+### This fork is not maintained.
+
 # loopdown
 ## Requirements
 This should run on any version of Python 3 after/including 3.10; `packaging` will need to be installed (a `requirements.txt` file is included in this repo) as `distutils` is deprecated.
